@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url='https://t.me/beereshbanakards'
+                                    'Developers', url='https://t.me/KANNADAMOVIES_17'
                                 )
                         ]
                     ]
@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/beereshbanakards'),
+        InlineKeyboardButton('Developers', url='https://t.me/KANNADAMOVIES_17'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/kannadamoviesrequestbot/Adv-Auto-Filter-Bot-V2')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/searchkannadamovies')
