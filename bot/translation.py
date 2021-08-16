@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey how are you{}!!</b>
+    START_TEXT = """<b>Hey how are you{}!!<u></b></u>
 <i>I Am Just A Advance Auto Filter Bot....😉 @KANNADAMOVIES_17
 
 You cannot add me to your groups and als channel😱🙈
